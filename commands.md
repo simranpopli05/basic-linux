@@ -2,6 +2,8 @@
 ~~~
 The mkdir command is used to create directories (folders).
  ~~~
+![EAFA6553-2CCE-41FC-ACE3-F9D4B55A6908](https://github.com/simranpopli05/basic-linux/assets/153719945/e26374af-9ae6-4423-8e64-4240f6f3e301)
+
 
 2.	Remove a directory
 The rmdir command is used to remove empty directories (folders).
