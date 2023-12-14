@@ -12,8 +12,10 @@ The rmdir command is used to remove empty directories (folders).
 
 3.	Make a copy of a file
 The cp command is used to copy files and directories.
+![DF72A37F-B516-4A40-80AF-8B4008504743](https://github.com/simranpopli05/basic-linux/assets/153719945/d85a6152-d6dc-4fb1-97eb-a6eaf48b53ed)
+
  
-4.	Move or rename a file
+5.	Move or rename a file
 
 The mv command is used to move or rename files and directories
  
