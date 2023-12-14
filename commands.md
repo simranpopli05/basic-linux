@@ -41,6 +41,8 @@ rm -r * command deletes all files and directories in the current directory
  
 
 10.	Create multiple folder (a-z) with a single command
+ ![65AF863B-DBC2-4415-AEBA-6476F82CA616](https://github.com/simranpopli05/basic-linux/assets/153719945/1b399445-3f06-430a-9c26-120d0db1611a)
+
           
 The mkdir {a-z} command is used to create a series of directories 
  
