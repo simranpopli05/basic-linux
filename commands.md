@@ -7,7 +7,8 @@ The mkdir command is used to create directories (folders).
 
 2.	Remove a directory
 The rmdir command is used to remove empty directories (folders).
- 
+ ![01AE2466-F44F-41F4-8DE6-FBBDABFFB8B3](https://github.com/simranpopli05/basic-linux/assets/153719945/469e9296-8480-4aa3-bb09-4ad694f977eb)
+
 
 3.	Make a copy of a file
 The cp command is used to copy files and directories.
