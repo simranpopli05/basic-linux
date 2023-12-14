@@ -45,6 +45,8 @@ rm -r * command deletes all files and directories in the current directory
 
           
 The mkdir {a-z} command is used to create a series of directories 
+![AD777FF5-2B1E-4003-A132-8042391B3D47](https://github.com/simranpopli05/basic-linux/assets/153719945/25b34e44-2ad1-48c2-83c8-d7aab5024ead)
+
  
 
  
