@@ -27,8 +27,10 @@ The mv command is used to move or rename files and directories
  
 
 
-7.	Remove multiple files with a single command
+6.	Remove multiple files with a single command
 Here , rm  command is used to remove the files only  but The rm command  is used to remove or delete files and directories
+![4423011B-F6E5-4847-A60B-A02F6D66DD91](https://github.com/simranpopli05/basic-linux/assets/153719945/c7839d84-48b7-4761-ab4d-99ed29a43c53)
+
  
 
 8.	Remove content from the folder without removing folder
