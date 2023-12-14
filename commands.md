@@ -34,11 +34,13 @@ Here , rm  command is used to remove the files only  but The rm command  is used
  
 
 8.	Remove content from the folder without removing folder
-rm -r * command deletes all files and directories in the current directory 
+rm -r * command deletes all files and directories in the current directory
+![026DF4CA-38B6-4FDB-85F9-44F10DD06938](https://github.com/simranpopli05/basic-linux/assets/153719945/09536a4f-925e-4a84-8880-057f794494c8)
+
 
  
 
-9.	Create multiple folder (a-z) with a single command
+10.	Create multiple folder (a-z) with a single command
           
 The mkdir {a-z} command is used to create a series of directories 
  
