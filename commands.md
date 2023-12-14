@@ -21,8 +21,7 @@ The mv command is used to move or rename files and directories
 
 ![5DA302A2-A48E-47F9-9FD2-C04E9FC12C3B](https://github.com/simranpopli05/basic-linux/assets/153719945/d165ce74-1f91-43b1-8506-7d83fb9533d7)
 
-5.	Create an empty directory
-mkdir command is used to create directory
+5.	Create an empty file touch command is used to create file
 ![F1265182-B676-43E4-BE4A-E49CDB04F49A](https://github.com/simranpopli05/basic-linux/assets/153719945/c8f79577-cab1-41e4-a200-25cfcf6248c4)
 
  
