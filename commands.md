@@ -15,10 +15,11 @@ The cp command is used to copy files and directories.
 ![DF72A37F-B516-4A40-80AF-8B4008504743](https://github.com/simranpopli05/basic-linux/assets/153719945/d85a6152-d6dc-4fb1-97eb-a6eaf48b53ed)
 
  
-5.	Move or rename a file
+4.	Move or rename a file
 
 The mv command is used to move or rename files and directories
- 
+
+![5DA302A2-A48E-47F9-9FD2-C04E9FC12C3B](https://github.com/simranpopli05/basic-linux/assets/153719945/d165ce74-1f91-43b1-8506-7d83fb9533d7)
 
 5.	Create an empty directory
 mkdir command is used to create directory
