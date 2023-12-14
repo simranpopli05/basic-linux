@@ -23,19 +23,21 @@ The mv command is used to move or rename files and directories
 
 5.	Create an empty directory
 mkdir command is used to create directory
+![F1265182-B676-43E4-BE4A-E49CDB04F49A](https://github.com/simranpopli05/basic-linux/assets/153719945/c8f79577-cab1-41e4-a200-25cfcf6248c4)
+
  
 
 
-6.	Remove multiple files with a single command
+7.	Remove multiple files with a single command
 Here , rm  command is used to remove the files only  but The rm command  is used to remove or delete files and directories
  
 
-7.	Remove content from the folder without removing folder
+8.	Remove content from the folder without removing folder
 rm -r * command deletes all files and directories in the current directory 
 
  
 
-8.	Create multiple folder (a-z) with a single command
+9.	Create multiple folder (a-z) with a single command
           
 The mkdir {a-z} command is used to create a series of directories 
  
