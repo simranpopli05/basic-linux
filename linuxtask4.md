@@ -58,21 +58,45 @@ Q13. List all files in the "/etc" directory, filter the output to include only t
 
 Q14. Open the "my_notes.txt" file in Vim. Use Vim's search and replace functionality to replace all occurrences of the word "important" with "critical." Save the changes.
 
+![image](https://github.com/simranpopli05/basic-linux/assets/153719945/79a9632e-6e2a-4ac4-90ed-a0e4af75b3fb)
+
+
 Q15.Create a new user account named "john_doe." Set the user's home directory to "/home/john_doe" and assign the user to the "users" group.
+
+![image](https://github.com/simranpopli05/basic-linux/assets/153719945/e8e6f412-c50a-482e-a575-f3af0037eab9)
+
 
 Q16. Add the user "john_doe" to the sudoers file, allowing them superuser privileges. Confirm that "john_doe" can execute commands with sudo.
 
 Q17. Modify the user account "john_doe" to change the default shell to "/bin/bash" and set the account's expiration date to one month from today.
 
+ ![image](https://github.com/simranpopli05/basic-linux/assets/153719945/d75d656a-784f-4d62-b818-0907769282a2)
+
+
 Q18. Create a new group named "development_team." Add "john_doe" to this group and verify the group's existence.
+
+![image](https://github.com/simranpopli05/basic-linux/assets/153719945/ec2a6353-8d4f-47f8-b279-d6627303fa0e)
+
 
 Q19. Remove "john_doe" from the "users" group and add them to the "development_team" group. Confirm the changes.
 
+  ![image](https://github.com/simranpopli05/basic-linux/assets/153719945/f9bf0179-6626-4443-bcbc-6fca2b432f07)
+
+
 Q20. Delete the user account "john_doe" and ensure that their home directory is also removed
+
+![image](https://github.com/simranpopli05/basic-linux/assets/153719945/16059840-e948-44fe-b0af-3931d9d4fe33)
+
 
 Q21. Delete the group "development_team" and ensure that all users previously belonging to the group are appropriately handled.
 
+![image](https://github.com/simranpopli05/basic-linux/assets/153719945/ef416edb-f6dd-4558-9c2d-96f148d34fbb)
+
+
 Q22. Implement a password policy that requires users to change their passwords every 90 days. Apply this policy to all existing and new user accounts.
+
+![image](https://github.com/simranpopli05/basic-linux/assets/153719945/da1b6874-11eb-4065-99ab-114f26eedf4b)
+
 
 Q23. Manually lock the user account "john_doe." Attempt to log in as "john_doe" to confirm that the account is locked. Then, unlock the account.
 
