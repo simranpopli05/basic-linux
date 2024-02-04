@@ -20,19 +20,41 @@ Q5. In the "MyFiles" directory, use a single command to list all files that star
 
  Q6. Rename all files in the "Documents" subdirectory of "MyFiles" with a ".bak" extension. Ensure the original file names are preserved.
 
+ ![E4DD415F-2E83-46A5-85F2-BA7A9A747D98](https://github.com/simranpopli05/basic-linux/assets/153719945/532b0811-6fed-44e9-9bf5-99c11e1cade1)
+
+
  Q7. Use a wildcard character to copy all files from the "Documents" subdirectory of "MyFiles" to another directory named "Backup."
 
+ ![414201CA-42DD-4309-BCBD-94EBDFD02086](https://github.com/simranpopli05/basic-linux/assets/153719945/9af28285-df51-417c-a80d-064f2dc0c0b0)
+
+
  Q8. Execute the ls command to list files in the current directory. Save the output to a file named "file_list.txt." Then, use a pipe to filter the output through grep to display only files with a ".txt" extension.
+
+ ![FE8741D3-3BF3-411F-ADD9-39BAC2ED3186](https://github.com/simranpopli05/basic-linux/assets/153719945/a1b44c85-d6ec-48cb-9ed0-db54babf9ccc)
+
 
  new text file named "my_notes.txt" using the touch command. Open the file in the Vim editor, add some text, and save the changes.
 
  Q10. Run the date command and store the output in a variable named "current_date." Display the value of the variable and append it to the "my_notes.txt" file.
 
+ ![D237BF6E-F376-4D35-A058-3EA5FC760A14](https://github.com/simranpopli05/basic-linux/assets/153719945/1b8a6d2c-3377-493c-93af-af687205db20)
+
+
  Q11. Edit the Bash startup script (e.g., .bashrc) to set an environment variable named "CUSTOM_PATH" to a specific directory path. Ensure the variable is available in new shell sessions.
 
+ ![0EB06CD9-E2D4-4CD2-978A-C4224D90FAAF](https://github.com/simranpopli05/basic-linux/assets/153719945/3ca62851-575d-40ec-8e82-2aa4dd3f2670)
+
+
  Q12. Use the echo command to add a new line of text to the "my_notes.txt" file without overwriting existing content. Verify that the new text is appended.
+ 
+
+ ![0EB06CD9-E2D4-4CD2-978A-C4224D90FAAF](https://github.com/simranpopli05/basic-linux/assets/153719945/3ca62851-575d-40ec-8e82-2aa4dd3f2670)
+
 
 Q13. List all files in the "/etc" directory, filter the output to include only those containing the word "conf," and save the result to a file named "conf_files.txt."
+
+![588C5AFF-4D4B-4DC7-AE5B-47176705C010](https://github.com/simranpopli05/basic-linux/assets/153719945/34579e8d-9bb1-4b3e-961d-c6a6f12d2be5)
+
 
 Q14. Open the "my_notes.txt" file in Vim. Use Vim's search and replace functionality to replace all occurrences of the word "important" with "critical." Save the changes.
 
